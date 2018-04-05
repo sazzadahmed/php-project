@@ -1,0 +1,41 @@
+
+input[type=text],[type=email],[type=date],[type=number]{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+input[type=submit]{
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border-radius:5px;
+    box-sizing: border-box;
+    background-color:#afd
+}
+
+input[type=submit]:hover{
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    box-sizing: border-box;
+    background-color:#ddd
+}
+.full_width{width:60%;}
+.group{border:1px solid transparent;margin-top:20px;}
+.floatleft{float:left}
+.floatright{float:right}
+.floatclear{clear:both}
+.width30{width:30%; margin-left:3%;}
+select{width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;}
+textarea{width:60%;min-height: 100px;}
+.extra_full_width{width:75%;border:2px solid #ddd;}
+.extra_full_width textarea{width:80%;}
+

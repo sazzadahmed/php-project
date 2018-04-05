@@ -1,0 +1,9 @@
+.border{border: 1px solid red;overflow: hidden}
+.floatleft{float:left;}
+.floatright{float:right;}
+.full_width{width:90%; margin: auto}
+.full_width h3{display: block;padding:20px;}
+.full_width .valueofinput h3{padding: 0px;}
+.half_width{width:75%;}
+.quadwidth{width:24%;}
+.valueofinput{margin-top:20px;}
